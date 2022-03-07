@@ -1,0 +1,2 @@
+pass : c000
+flag : picoCTF{tr45h_51ng1ng_a3e28409}
